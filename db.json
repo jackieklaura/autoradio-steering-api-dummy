@@ -1,23 +1,6 @@
 {
   "users": [
     {
-      "id": 23,
-      "profile": null,
-      "last_login": null,
-      "is_superuser": false,
-      "username": "francine_pm",
-      "first_name": "Francine",
-      "last_name": "the Funky Program Manager",
-      "email": "francy_funky_dummy_address@o94.at",
-      "is_staff": true,
-      "is_active": true,
-      "date_joined": "2017-11-22T00:00:00",
-      "groups": [
-          1
-      ],
-      "user_permissions": []
-    },
-    {
       "id": 42,
       "profile": null,
       "last_login": "2017-11-22T05:23:42.052342",
@@ -34,12 +17,7 @@
     },
     {
       "id": 5,
-      "profile": {
-        "id": 1,
-        "cba_username": "an_ti_fa_dummy_account",
-        "cba_user_token": "ANTIFADUMMYTOKEN",
-        "user": 5
-      },
+      "profile": null,
       "last_login": null,
       "is_superuser": false,
       "username": "an_ti_fa",
@@ -49,9 +27,7 @@
       "is_staff": true,
       "is_active": true,
       "date_joined": "2017-11-22T09:00:00",
-      "groups": [
-        2
-      ],
+      "groups": [],
       "user_permissions": []
     }
   ],
@@ -75,25 +51,6 @@
       "width": null,
       "image": null
     },
-    {
-      "id": 1,
-      "name": "Musikredaktion",
-      "is_always_visible": false,
-      "email": "",
-      "website": "",
-      "biography": null,
-      "googleplus_url": "",
-      "facebook_url": "",
-      "twitter_url": "",
-      "linkedin_url": "",
-      "youtube_url": "",
-      "dorftv_url": "",
-      "cba_url": "",
-      "ppoi": "(0.5, 0.5)",
-      "height": null,
-      "width": null,
-      "image": null
-    }
   ],
   "shows": [
     {
@@ -103,7 +60,7 @@
       "image": null,
       "logo": null,
       "short_description": "Hack the Pentagon? (y/n): ...",
-      "description": "<div class=\"lipsum\">\r\n<p><em> Haxx0r ipsum kilo</em> rsa gnu Starcraft hexadecimal irc private if warez rm -rf continue firewall bar then pragma. Overflow mega script kiddies stack trace wabbit Trojan horse shell char bytes leet python fork giga. Terminal client protocol pwned man pages deadlock gurfle blob crack concurrently.</p>\r\n<p>Alloc interpreter fail Trojan horse crack spoof long socket gnu salt ip data. Memory leak recursively new while cd vi system exception packet machine code true tcp access xss bin <strong>cookie eaten by a grue brute force piggyback</strong>. Afk flush mailbomb perl void *.* headers highjack daemon for worm ban boolean var gc malloc irc injection James T. Kirk.</p>\r\n<p>Linus Torvalds printf over clock frack case piggyback Donald Knuth ip emacs try catch. Endif flood todo int public wombat headers protocol ascii January 1, 1970 overflow void true eaten by a grue. Default rm -rf while fail perl boolean warez bang deadlock exception pwned tunnel in /dev/null continue.</p>\r\n</div>",
+      "description": "<p><em> Haxx0r ipsum kilo</em> rsa gnu Starcraft hexadecimal irc private if warez rm -rf continue firewall bar then pragma. Overflow mega script kiddies stack trace wabbit Trojan horse shell char bytes leet python fork giga.</p>",
       "email": null,
       "website": null,
       "created": "2017-12-20T09:46:27.160959",
@@ -114,27 +71,7 @@
       "cba_series_id": null,
       "fallback_pool": "",
       "category": [],
-      "hosts": [
-        {
-          "id": 2,
-          "name": "Anita Tina Faraday",
-          "is_always_visible": false,
-          "email": "",
-          "website": "",
-          "biography": "",
-          "googleplus_url": "",
-          "facebook_url": "",
-          "twitter_url": "",
-          "linkedin_url": "",
-          "youtube_url": "",
-          "dorftv_url": "",
-          "cba_url": "",
-          "ppoi": "(0.5, 0.5)",
-          "height": null,
-          "width": null,
-          "image": null
-        }
-      ],
+      "hosts": [],
       "language": [],
       "topic": [],
       "musicfocus": []
@@ -146,7 +83,7 @@
       "image": null,
       "logo": null,
       "short_description": "Zombies reversus ab inferno, nam malum cerebro.",
-      "description": "<p>Zombies reversus ab inferno, nam malum cerebro. De carne a nimata corpora quaeritis. Summus sit, morbo vel maleficia? De Apocalypsi undead dictum mauris. Hi mortuis soulless creaturas, imo monstra adventus vultus comedat cerebella viventium.</p>",
+      "description": "<p>De carne a nimata corpora quaeritis. Summus sit, morbo vel maleficia? De Apocalypsi undead dictum mauris.</p>",
       "email": null,
       "website": null,
       "created": "2017-12-20T09:36:38.027186",
@@ -163,35 +100,12 @@
       "musicfocus": []
     },
     {
-      "id": 5,
-      "name": "Lilly Nilly Superstar",
-      "slug": "lilly-nilly-superstar",
-      "image": null,
-      "logo": null,
-      "short_description": "Yar Pirate Ipsum",
-      "description": "<div id=\"results-here\">\r\n<p>Prow scuttle parrel provost Sail ho shrouds spirits boom mizzenmast yardarm. Pinnace holystone mizzenmast quarter crow's nest nipperkin grog yardarm hempen halter furl. Swab barque interloper chantey doubloon starboard grog black jack gangway rutters.</p>\r\n<p>Deadlights jack lad schooner scallywag dance the hempen jig carouser broadside cable strike colors. Bring a spring upon her cable holystone blow the man down spanker Shiver me timbers to go on account lookout wherry doubloon chase. Belay yo-ho-ho keelhaul squiffy black spot yardarm spyglass sheet transom heave to.</p>\r\n<p>Trysail Sail ho Corsair red ensign hulk smartly boom jib rum gangway. Case shot Shiver me timbers gangplank crack Jennys tea cup ballast Blimey lee snow crow's nest rutters. Fluke jib scourge of the seven seas boatswain schooner gaff booty Jack Tar transom spirits.</p>\r\n</div>",
-      "email": null,
-      "website": null,
-      "created": "2017-12-20T09:55:14.780789",
-      "last_updated": "2017-12-20T09:55:18.385997",
-      "type_id": 7,
-      "rtrcategory_id": 1,
-      "predecessor_id": null,
-      "cba_series_id": null,
-      "fallback_pool": "",
-      "category": [],
-      "hosts": [],
-      "language": [],
-      "topic": [],
-      "musicfocus": []
-    },
-    {
       "id": 2,
       "name": "Mit der Wand gegen den Kopf",
       "slug": "mit-der-wand-gegen-den-kopf",
       "image": null,
       "logo": null,
-      "short_description": "Hodor hodor, hodor. Hodor hodor - hodor... Hodor hodor hodor?! Hodor! Hodor hodor, HODOR hodor, hodor hodor. Hodor. Hodor, hodor hodor hodor? Hodor hodor - hodor - hodor hodor?!",
+      "short_description": "Hodor hodor, hodor. Hodor hodor - hodor... Hodor hodor hodor?! Hodor! Hodor hodor, HODOR hodor, hodor hodor.",
       "description": "",
       "email": null,
       "website": null,
@@ -262,49 +176,6 @@
         }
       ],
       "musicfocus": []
-    },
-    {
-      "id": 1,
-      "name": "Musikprogramm",
-      "slug": "musikprogramm",
-      "image": null,
-      "logo": null,
-      "short_description": "Unmoderiertes Musikprogramm",
-      "description": "Unmoderiertes Musikprogramm",
-      "email": "musikredaktion@helsinki.at",
-      "website": null,
-      "created": "1970-01-01T00:00:00",
-      "last_updated": "1970-01-01T00:00:00",
-      "type_id": 3,
-      "rtrcategory_id": 1,
-      "predecessor_id": null,
-      "cba_series_id": null,
-      "fallback_pool": "",
-      "category": [],
-      "hosts": [
-        {
-          "id": 1,
-          "name": "Musikredaktion",
-          "is_always_visible": false,
-          "email": "",
-          "website": "",
-          "biography": null,
-          "googleplus_url": "",
-          "facebook_url": "",
-          "twitter_url": "",
-          "linkedin_url": "",
-          "youtube_url": "",
-          "dorftv_url": "",
-          "cba_url": "",
-          "ppoi": "(0.5, 0.5)",
-          "height": null,
-          "width": null,
-          "image": null
-        }
-      ],
-      "language": [],
-      "topic": [],
-      "musicfocus": []
     }
   ],
   "timeslots": [
@@ -336,7 +207,7 @@
         "id": 2,
         "start": "2018-02-05T08:00:00",
         "end": "2018-02-05T09:00:00",
-        "memo": "Gone for good",
+        "memo": "Gone for food",
         "is_repetition": false,
         "playlist_id": 101,
         "schedule": 1,
@@ -363,37 +234,7 @@
         "playlist_id": null,
         "schedule": 3,
         "show": 3
-      },
-      {
-        "id": 5,
-        "start": "2018-01-09T23:00:00",
-        "end": "2018-01-10T00:00:00",
-        "memo": "",
-        "is_repetition": false,
-        "playlist_id": null,
-        "schedule": 2,
-        "show": 3
-      },
-      {
-        "id": 28,
-        "start": "2018-01-12T23:00:00",
-        "end": "2018-01-13T00:00:00",
-        "memo": "",
-        "is_repetition": true,
-        "playlist_id": null,
-        "schedule": 3,
-        "show": 3
-      },
-      {
-        "id": 6,
-        "start": "2018-01-23T23:00:00",
-        "end": "2018-01-24T00:00:00",
-        "memo": "",
-        "is_repetition": false,
-        "playlist_id": null,
-        "schedule": 2,
-        "show": 3
-      },
+      }
     ],
     [
       {
@@ -415,49 +256,7 @@
          "playlist_id": 23425,
          "schedule": 4,
          "show": 4
-       },
-       {
-         "id": 51,
-         "start": "2018-01-17T23:05:00",
-         "end": "2018-01-17T23:42:00",
-         "memo": "",
-         "is_repetition": false,
-         "playlist_id": null,
-         "schedule": 4,
-         "show": 4
-       },
-       {
-         "id": 52,
-         "start": "2018-01-31T23:05:00",
-         "end": "2018-01-31T23:42:00",
-         "memo": "",
-         "is_repetition": false,
-         "playlist_id": null,
-         "schedule": 4,
-         "show": 4
        }
-    ],
-    [
-      {
-        "id": 61,
-        "start": "2017-12-22T11:00:00",
-        "end": "2017-12-22T11:30:00",
-        "memo": "",
-        "is_repetition": false,
-        "playlist_id": null,
-        "schedule": 5,
-        "show": 5
-      },
-      {
-        "id": 62,
-        "start": "2017-12-29T11:00:00",
-        "end": "2017-12-29T11:30:00",
-        "memo": "",
-        "is_repetition": false,
-        "playlist_id": null,
-        "schedule": 5,
-        "show": 5
-      }
     ]
   ],
   "notes": [
@@ -504,50 +303,6 @@
   ],
   "categories": [
     {
-      "id": 6,
-      "category": "Frauenschwerpunkt",
-      "abbrev": "F",
-      "slug": "frauenschwerpunkt",
-      "color": "",
-      "description": "",
-      "button": null,
-      "button_hover": null,
-      "big_button": null
-    },
-    {
-      "id": 1,
-      "category": "Interkulturell",
-      "abbrev": "I",
-      "slug": "interkulturell",
-      "color": "",
-      "description": "",
-      "button": null,
-      "button_hover": null,
-      "big_button": null
-    },
-    {
-      "id": 2,
-      "category": "Lokalbezug",
-      "abbrev": "L",
-      "slug": "lokalbezug",
-      "color": "",
-      "description": "",
-      "button": null,
-      "button_hover": null,
-      "big_button": null
-    },
-    {
-      "id": 5,
-      "category": "Mehr-/Fremdsprachig",
-      "abbrev": "M",
-      "slug": "mehr-fremdsprachig",
-      "color": "",
-      "description": "",
-      "button": null,
-      "button_hover": null,
-      "big_button": null
-    },
-    {
       "id": 3,
       "category": "Minderheiten",
       "abbrev": "Mi",
@@ -568,63 +323,14 @@
       "button": null,
       "button_hover": null,
       "big_button": null
-    },
-    {
-      "id": 4,
-      "category": "Wiederholung",
-      "abbrev": "W",
-      "slug": "wiederholung",
-      "color": "",
-      "description": "",
-      "button": null,
-      "button_hover": null,
-      "big_button": null
-    },
-    {
-      "id": 7,
-      "category": "Österreichische Musik",
-      "abbrev": "Ö",
-      "slug": "osterreichische-musik",
-      "color": "",
-      "description": "",
-      "button": null,
-      "button_hover": null,
-      "big_button": null
     }
   ],
   "topics": [
-    {
-      "id": 3,
-      "topic": "Kultur/Kunst",
-      "abbrev": "K",
-      "slug": "kultur-kunst",
-      "button": null,
-      "button_hover": null,
-      "big_button": null
-    },
-    {
-      "id": 2,
-      "topic": "Natur/Klima/Tiere",
-      "abbrev": "N",
-      "slug": "natur-klima-tiere",
-      "button": null,
-      "button_hover": null,
-      "big_button": null
-    },
     {
       "id": 1,
       "topic": "Politik/Gesellschaft",
       "abbrev": "P",
       "slug": "politik-gesellschaft",
-      "button": null,
-      "button_hover": null,
-      "big_button": null
-    },
-    {
-      "id": 4,
-      "topic": "Soziales",
-      "abbrev": "S",
-      "slug": "soziales",
       "button": null,
       "button_hover": null,
       "big_button": null
@@ -657,41 +363,9 @@
       "enabled": true
     },
     {
-      "id": 6,
-      "type": "Hörspiel/Literatur",
-      "slug": "horspiel-literatur",
-      "color": "#ffffff",
-      "text_color": "#000000",
-      "enabled": true
-    },
-    {
-      "id": 2,
-      "type": "Musiksendung",
-      "slug": "musiksendung",
-      "color": "#ffffff",
-      "text_color": "#000000",
-      "enabled": true
-    },
-    {
-      "id": 1,
-      "type": "Talk",
-      "slug": "talk",
-      "color": "#ffffff",
-      "text_color": "#000000",
-      "enabled": true
-    },
-    {
       "id": 3,
       "type": "Unmoderiertes Musikprogramm",
       "slug": "unmoderiertes-musikprogramm",
-      "color": "#ffffff",
-      "text_color": "#000000",
-      "enabled": true
-    },
-    {
-      "id": 7,
-      "type": "Vortrag/Diskussion",
-      "slug": "vortrag-diskussion",
       "color": "#ffffff",
       "text_color": "#000000",
       "enabled": true
@@ -715,78 +389,6 @@
       "button": null,
       "button_hover": null,
       "big_button": null
-    },
-    {
-      "id": 10,
-      "focus": "Hiphop",
-      "abbrev": "H",
-      "slug": "hiphop",
-      "button": null,
-      "button_hover": null,
-      "big_button": null
-    },
-    {
-      "id": 1,
-      "focus": "Jazz",
-      "abbrev": "J",
-      "slug": "jazz",
-      "button": null,
-      "button_hover": null,
-      "big_button": null
-    },
-    {
-      "id": 7,
-      "focus": "Klassik",
-      "abbrev": "K",
-      "slug": "klassik",
-      "button": null,
-      "button_hover": null,
-      "big_button": null
-    },
-    {
-      "id": 5,
-      "focus": "Metal/Hardrock",
-      "abbrev": "M",
-      "slug": "metal-hardrock",
-      "button": null,
-      "button_hover": null,
-      "big_button": null
-    },
-    {
-      "id": 8,
-      "focus": "Oldies",
-      "abbrev": "O",
-      "slug": "oldies",
-      "button": null,
-      "button_hover": null,
-      "big_button": null
-    },
-    {
-      "id": 9,
-      "focus": "Reggae/Ska",
-      "abbrev": "Re",
-      "slug": "reggae-ska",
-      "button": null,
-      "button_hover": null,
-      "big_button": null
-    },
-    {
-      "id": 4,
-      "focus": "Rock/Indie",
-      "abbrev": "R",
-      "slug": "rock-indie",
-      "button": null,
-      "button_hover": null,
-      "big_button": null
-    },
-    {
-      "id": 2,
-      "focus": "Volksmusik/Folk",
-      "abbrev": "V",
-      "slug": "volksmusik-folk",
-      "button": null,
-      "button_hover": null,
-      "big_button": null
     }
   ],
   "rtrcategories": [
@@ -803,188 +405,12 @@
       "name": "Englisch"
     },
     {
-      "id": 3,
-      "name": "Spanisch"
-    },
-    {
-      "id": 4,
-      "name": "Polnisch"
-    },
-    {
-      "id": 5,
-      "name": "Farsi"
-    },
-    {
-      "id": 6,
-      "name": "Französisch"
-    },
-    {
       "id": 7,
       "name": "Slowenisch"
     },
     {
-      "id": 8,
-      "name": "Persisch"
-    },
-    {
-      "id": 9,
-      "name": "Arabisch"
-    },
-    {
-      "id": 10,
-      "name": "Türkisch"
-    },
-    {
-      "id": 11,
-      "name": "Japanisch"
-    },
-    {
-      "id": 12,
-      "name": "Italienisch"
-    },
-    {
-      "id": 13,
-      "name": "Tschechisch"
-    },
-    {
-      "id": 14,
-      "name": "Russisch"
-    },
-    {
-      "id": 15,
-      "name": "Chinesisch"
-    },
-    {
-      "id": 16,
-      "name": "Ungarisch"
-    },
-    {
-      "id": 17,
-      "name": "Serbisch"
-    },
-    {
-      "id": 18,
-      "name": "Portugiesisch"
-    },
-    {
-      "id": 19,
-      "name": "Kroatisch"
-    },
-    {
-      "id": 20,
-      "name": "Albanisch"
-    },
-    {
-      "id": 21,
-      "name": "Dari"
-    },
-    {
-      "id": 22,
-      "name": "Bosnisch"
-    },
-    {
-      "id": 23,
-      "name": "Kurdisch"
-    },
-    {
-      "id": 24,
-      "name": "Aserbaidschanisch"
-    },
-    {
-      "id": 25,
-      "name": "Slowakisch"
-    },
-    {
-      "id": 26,
-      "name": "Niederländisch"
-    },
-    {
-      "id": 27,
-      "name": "Bulgarisch"
-    },
-    {
-      "id": 28,
-      "name": "Somali"
-    },
-    {
-      "id": 29,
-      "name": "Tschetschenisch"
-    },
-    {
-      "id": 30,
-      "name": "Dänisch"
-    },
-    {
-      "id": 31,
-      "name": "Rumänisch"
-    },
-    {
-      "id": 32,
-      "name": "Thai"
-    },
-    {
-      "id": 33,
-      "name": "Finnisch"
-    },
-    {
-      "id": 34,
-      "name": "Romanes"
-    },
-    {
-      "id": 35,
-      "name": "Griechisch"
-    },
-    {
-      "id": 36,
-      "name": "Singhalesisch"
-    },
-    {
-      "id": 37,
-      "name": "Urdu"
-    },
-    {
-      "id": 38,
-      "name": "Estnisch"
-    },
-    {
-      "id": 39,
-      "name": "Mazedonisch"
-    },
-    {
-      "id": 40,
-      "name": "Hebräisch"
-    },
-    {
-      "id": 41,
-      "name": "Schwedisch"
-    },
-    {
-      "id": 42,
-      "name": "Lithauisch"
-    },
-    {
       "id": 43,
       "name": "Jiddisch"
-    },
-    {
-      "id": 44,
-      "name": "Isländisch"
-    },
-    {
-      "id": 45,
-      "name": "Litauisch"
-    },
-    {
-      "id": 46,
-      "name": "Amharisch"
-    },
-    {
-      "id": 47,
-      "name": "Norwegisch"
-    },
-    {
-      "id": 48,
-      "name": "Koreanisch"
     },
     {
       "id": 1,
