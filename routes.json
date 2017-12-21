@@ -1,0 +1,15 @@
+{
+  "/api/v1/*": "/$1",
+  "/shows/:showid/schedules": "/schedules?show=:showid",
+  "/shows/:showid/schedules/:scheduleid": "/schedules?show=:showid&id=:scheduleid",
+  "/shows/:showid/schedules/:scheduleid/timeslots": "/timeslots?show=:showid&schedule=:scheduleid",
+  "/shows/:showid/schedules/:scheduleid/timeslots/:timeslotid": "/timeslots?show=:showid&schedule=:scheduleid&id=:timeslotid",
+  "/shows/:showid/schedules/:scheduleid/timeslots/:timeslotid/notes": "/notes?show=:showid&timeslot=:timeslotid",
+  "/shows/:showid/schedules/:scheduleid/timeslots/:timeslotid/notes/:noteid": "/notes?show=:showid&timeslot=:timeslotid&id=:noteid",
+  "/shows/:showid/timeslots": "/timeslots?show=:showid",
+  "/shows/:showid/timeslots/:timeslotid": "/timeslots?show=:showid&id=:timeslotid",
+  "/shows/:showid/timeslots/:timeslotid/notes": "/notes?show=:showid&timeslot=:timeslotid",
+  "/shows/:showid/timeslots/:timeslotid/notes/:noteid": "/notes?show=:showid&timeslot=:timeslotid&id=:noteid",
+  "/shows/:showid/notes": "/notes?show=:showid",
+  "/shows/:showid/notes/:noteid": "/notes?show=:showid&id=:noteid"
+}

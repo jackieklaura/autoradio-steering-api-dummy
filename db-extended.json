@@ -13,7 +13,7 @@
       "is_active": true,
       "date_joined": "2017-11-22T00:00:00",
       "groups": [
-          1
+        1
       ],
       "user_permissions": []
     },
@@ -307,158 +307,254 @@
       "musicfocus": []
     }
   ],
+  "schedules": [
+    {
+      "id": 1,
+      "rrule": 9,
+      "show": 2,
+      "byweekday": 0,
+      "dstart": "2017-12-20",
+      "tstart": "08:00:00",
+      "tend": "09:00:00",
+      "until": "2018-04-01",
+      "is_repetition": false,
+      "fallback_playlist_id": 0,
+      "automation_id": 0,
+      "created": "2017-12-20T08:48:40.345087",
+      "last_updated": "2017-12-20T08:48:40.345135"
+    },
+    {
+      "id": 6,
+      "rrule": 4,
+      "show": 2,
+      "byweekday": 0,
+      "dstart": "2017-12-20",
+      "tstart": "08:00:00",
+      "tend": "09:00:00",
+      "until": "2017-12-12",
+      "is_repetition": false,
+      "fallback_playlist_id": 0,
+      "automation_id": 0,
+      "created": "2017-12-20T10:03:09.272638",
+      "last_updated": "2017-12-20T10:03:09.272660"
+    },
+    {
+      "id": 7,
+      "rrule": 2,
+      "show": 2,
+      "byweekday": 0,
+      "dstart": "2017-12-20",
+      "tstart": "08:00:00",
+      "tend": "09:00:00",
+      "until": "2017-12-21",
+      "is_repetition": false,
+      "fallback_playlist_id": 0,
+      "automation_id": 0,
+      "created": "2017-12-20T10:05:45.940844",
+      "last_updated": "2017-12-20T10:05:45.940869"
+    },
+    {
+      "id": 5,
+      "rrule": 4,
+      "show": 5,
+      "byweekday": 4,
+      "dstart": "2017-12-20",
+      "tstart": "11:00:00",
+      "tend": "11:30:00",
+      "until": "2018-02-28",
+      "is_repetition": false,
+      "fallback_playlist_id": 0,
+      "automation_id": 0,
+      "created": "2017-12-20T09:55:18.403466",
+      "last_updated": "2017-12-20T09:55:18.403491"
+    },
+    {
+      "id": 2,
+      "rrule": 5,
+      "show": 3,
+      "byweekday": 1,
+      "dstart": "2017-12-20",
+      "tstart": "23:00:00",
+      "tend": "00:00:00",
+      "until": "2018-10-31",
+      "is_repetition": false,
+      "fallback_playlist_id": 0,
+      "automation_id": 0,
+      "created": "2017-12-20T09:36:47.998121",
+      "last_updated": "2017-12-20T09:36:47.998151"
+    },
+    {
+      "id": 3,
+      "rrule": 5,
+      "show": 3,
+      "byweekday": 4,
+      "dstart": "2017-12-20",
+      "tstart": "23:00:00",
+      "tend": "00:00:00",
+      "until": "2018-10-31",
+      "is_repetition": true,
+      "fallback_playlist_id": 0,
+      "automation_id": 0,
+      "created": "2017-12-20T09:36:57.936551",
+      "last_updated": "2017-12-20T09:36:57.936582"
+    },
+    {
+      "id": 4,
+      "rrule": 8,
+      "show": 4,
+      "byweekday": 2,
+      "dstart": "2017-12-20",
+      "tstart": "23:05:00",
+      "tend": "23:42:00",
+      "until": "2018-05-23",
+      "is_repetition": false,
+      "fallback_playlist_id": 0,
+      "automation_id": 0,
+      "created": "2017-12-20T09:46:32.792432",
+      "last_updated": "2017-12-20T09:46:32.792455"
+    }
+  ],
   "timeslots": [
-    [
-
-    ],
-    [
-      {
-        "id": 71,
-        "start": "2017-12-21T08:00:00",
-        "end": "2017-12-21T09:00:00",
-        "memo": "Upcoming: neue Termine für Aktivist*innen",
-        "is_repetition": false,
-        "playlist_id": 99,
-        "schedule": 7,
-        "show": 2
-      },
-      {
-        "id": 1,
-        "start": "2018-01-01T08:00:00",
-        "end": "2018-01-01T09:00:00",
-        "memo": "Gone for good",
-        "is_repetition": false,
-        "playlist_id": 100,
-        "schedule": 1,
-        "show": 2
-      },
-      {
-        "id": 2,
-        "start": "2018-02-05T08:00:00",
-        "end": "2018-02-05T09:00:00",
-        "memo": "Gone for good",
-        "is_repetition": false,
-        "playlist_id": 101,
-        "schedule": 1,
-        "show": 2
-      }
-    ],
-    [
-      {
-        "id": 4,
-        "start": "2017-12-26T23:00:00",
-        "end": "2017-12-27T00:00:00",
-        "memo": "",
-        "is_repetition": false,
-        "playlist_id": null,
-        "schedule": 2,
-        "show": 3
-      },
-      {
-        "id": 27,
-        "start": "2017-12-29T23:00:00",
-        "end": "2017-12-30T00:00:00",
-        "memo": "",
-        "is_repetition": true,
-        "playlist_id": null,
-        "schedule": 3,
-        "show": 3
-      },
-      {
-        "id": 5,
-        "start": "2018-01-09T23:00:00",
-        "end": "2018-01-10T00:00:00",
-        "memo": "",
-        "is_repetition": false,
-        "playlist_id": null,
-        "schedule": 2,
-        "show": 3
-      },
-      {
-        "id": 28,
-        "start": "2018-01-12T23:00:00",
-        "end": "2018-01-13T00:00:00",
-        "memo": "",
-        "is_repetition": true,
-        "playlist_id": null,
-        "schedule": 3,
-        "show": 3
-      },
-      {
-        "id": 6,
-        "start": "2018-01-23T23:00:00",
-        "end": "2018-01-24T00:00:00",
-        "memo": "",
-        "is_repetition": false,
-        "playlist_id": null,
-        "schedule": 2,
-        "show": 3
-      },
-    ],
-    [
-      {
-         "id": 49,
-         "start": "2017-12-20T23:05:00",
-         "end": "2017-12-20T23:42:00",
-         "memo": "in a minute ... or more",
-         "is_repetition": false,
-         "playlist_id": 23542,
-         "schedule": 4,
-         "show": 4
-       },
-       {
-         "id": 50,
-         "start": "2018-01-03T23:05:00",
-         "end": "2018-01-03T23:42:00",
-         "memo": "the nerd countdown",
-         "is_repetition": false,
-         "playlist_id": 23425,
-         "schedule": 4,
-         "show": 4
-       },
-       {
-         "id": 51,
-         "start": "2018-01-17T23:05:00",
-         "end": "2018-01-17T23:42:00",
-         "memo": "",
-         "is_repetition": false,
-         "playlist_id": null,
-         "schedule": 4,
-         "show": 4
-       },
-       {
-         "id": 52,
-         "start": "2018-01-31T23:05:00",
-         "end": "2018-01-31T23:42:00",
-         "memo": "",
-         "is_repetition": false,
-         "playlist_id": null,
-         "schedule": 4,
-         "show": 4
-       }
-    ],
-    [
-      {
-        "id": 61,
-        "start": "2017-12-22T11:00:00",
-        "end": "2017-12-22T11:30:00",
-        "memo": "",
-        "is_repetition": false,
-        "playlist_id": null,
-        "schedule": 5,
-        "show": 5
-      },
-      {
-        "id": 62,
-        "start": "2017-12-29T11:00:00",
-        "end": "2017-12-29T11:30:00",
-        "memo": "",
-        "is_repetition": false,
-        "playlist_id": null,
-        "schedule": 5,
-        "show": 5
-      }
-    ]
+    {
+      "id": 71,
+      "start": "2017-12-21T08:00:00",
+      "end": "2017-12-21T09:00:00",
+      "memo": "Upcoming: neue Termine für Aktivist*innen",
+      "is_repetition": false,
+      "playlist_id": 99,
+      "schedule": 7,
+      "show": 2
+    },
+    {
+      "id": 1,
+      "start": "2018-01-01T08:00:00",
+      "end": "2018-01-01T09:00:00",
+      "memo": "Gone for good",
+      "is_repetition": false,
+      "playlist_id": 100,
+      "schedule": 1,
+      "show": 2
+    },
+    {
+      "id": 2,
+      "start": "2018-02-05T08:00:00",
+      "end": "2018-02-05T09:00:00",
+      "memo": "Gone for good",
+      "is_repetition": false,
+      "playlist_id": 101,
+      "schedule": 1,
+      "show": 2
+    },
+    {
+      "id": 4,
+      "start": "2017-12-26T23:00:00",
+      "end": "2017-12-27T00:00:00",
+      "memo": "",
+      "is_repetition": false,
+      "playlist_id": null,
+      "schedule": 2,
+      "show": 3
+    },
+    {
+      "id": 27,
+      "start": "2017-12-29T23:00:00",
+      "end": "2017-12-30T00:00:00",
+      "memo": "",
+      "is_repetition": true,
+      "playlist_id": null,
+      "schedule": 3,
+      "show": 3
+    },
+    {
+      "id": 5,
+      "start": "2018-01-09T23:00:00",
+      "end": "2018-01-10T00:00:00",
+      "memo": "",
+      "is_repetition": false,
+      "playlist_id": null,
+      "schedule": 2,
+      "show": 3
+    },
+    {
+      "id": 28,
+      "start": "2018-01-12T23:00:00",
+      "end": "2018-01-13T00:00:00",
+      "memo": "",
+      "is_repetition": true,
+      "playlist_id": null,
+      "schedule": 3,
+      "show": 3
+    },
+    {
+      "id": 6,
+      "start": "2018-01-23T23:00:00",
+      "end": "2018-01-24T00:00:00",
+      "memo": "",
+      "is_repetition": false,
+      "playlist_id": null,
+      "schedule": 2,
+      "show": 3
+    },
+    {
+      "id": 49,
+      "start": "2017-12-20T23:05:00",
+      "end": "2017-12-20T23:42:00",
+      "memo": "in a minute ... or more",
+      "is_repetition": false,
+      "playlist_id": 23542,
+      "schedule": 4,
+      "show": 4
+    },
+    {
+      "id": 50,
+      "start": "2018-01-03T23:05:00",
+      "end": "2018-01-03T23:42:00",
+      "memo": "the nerd countdown",
+      "is_repetition": false,
+      "playlist_id": 23425,
+      "schedule": 4,
+      "show": 4
+    },
+    {
+      "id": 51,
+      "start": "2018-01-17T23:05:00",
+      "end": "2018-01-17T23:42:00",
+      "memo": "",
+      "is_repetition": false,
+      "playlist_id": null,
+      "schedule": 4,
+      "show": 4
+    },
+    {
+      "id": 52,
+      "start": "2018-01-31T23:05:00",
+      "end": "2018-01-31T23:42:00",
+      "memo": "",
+      "is_repetition": false,
+      "playlist_id": null,
+      "schedule": 4,
+      "show": 4
+    },
+    {
+      "id": 61,
+      "start": "2017-12-22T11:00:00",
+      "end": "2017-12-22T11:30:00",
+      "memo": "",
+      "is_repetition": false,
+      "playlist_id": null,
+      "schedule": 5,
+      "show": 5
+    },
+    {
+      "id": 62,
+      "start": "2017-12-29T11:00:00",
+      "end": "2017-12-29T11:30:00",
+      "memo": "",
+      "is_repetition": false,
+      "playlist_id": null,
+      "schedule": 5,
+      "show": 5
+    }
   ],
   "notes": [
     {
